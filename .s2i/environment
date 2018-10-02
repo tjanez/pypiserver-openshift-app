@@ -1,1 +1,1 @@
-APP_SCRIPT=pypi-server
+APP_SCRIPT=/opt/app-root/bin/pypi-server
