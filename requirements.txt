@@ -1,1 +1,1 @@
-pypiserver[passlib]==1.2.1
+pypiserver[passlib]==1.2.7
